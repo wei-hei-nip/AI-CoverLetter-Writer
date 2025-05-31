@@ -1,5 +1,5 @@
 # AI-CoverLetter-Writer
-Ollama Cover Letter Writer allowing CV input for tailoring
+LangChain framework and Streamlit interface
 
 Two Versions:
   1. Simple job description input and output, with follow up customisation
