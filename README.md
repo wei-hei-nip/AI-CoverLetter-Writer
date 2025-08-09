@@ -1,4 +1,4 @@
-#AI Cover Letter Writer with Ollama
+# AI Cover Letter Writer with Ollama
 
 
 The follow should be set.
